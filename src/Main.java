@@ -6,9 +6,9 @@ public class Main {
 
         Ibrahim ibrahim = new Ibrahim();
 
-        a=ibrahim.x+ibrahim.y;
-        
-        System.out.println(a);
+        a = ibrahim.x + ibrahim.y;
+
+        System.out.println("Summation of x and y from Ibrahim class is : " + a);
 
     }
 
