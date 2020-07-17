@@ -1,4 +1,6 @@
 package inheritance;
 
-public class inherit {
+public class inherit extends inheritance{
+
+
 }
