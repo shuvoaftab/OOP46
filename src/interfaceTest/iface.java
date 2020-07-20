@@ -1,4 +1,4 @@
 package interfaceTest;
 
-public interface inter {
+public class iface {
 }

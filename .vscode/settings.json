@@ -1,4 +1,6 @@
 {
   "terminal.integrated.fontSize": 18,
-  "debug.console.fontSize": 20
+  "debug.console.fontSize": 20,
+  "gitlens.codeLens.enabled": false,
+  "gitlens.currentLine.enabled": false
 }
